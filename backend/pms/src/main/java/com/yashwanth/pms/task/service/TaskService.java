@@ -1,0 +1,26 @@
+package com.yashwanth.pms.task.service;
+
+import com.yashwanth.pms.task.domain.Task;
+
+import java.util.List;
+import java.util.UUID;
+
+public interface TaskService {
+
+    Task createTask(UUID projectId, String title, String description, String priority, UUID creatorId);
+
+    void assignTask(UUID taskId, UUID assigneeId, UUID currentUserId);
+
+    List<Task> getTasksByProject(UUID projectId);
+
+    void changeTaskStatus(UUID taskId, String newStatus, UUID currentUserId);
+
+    Task getById(UUID taskId);
+
+    List<Task> getTasksByMember(UUID projectId, UUID userId);
+
+    Task updateTask(UUID taskId, String title, String description, String priority, String dueDate, UUID currentUserId);
+
+    void deleteTask(UUID taskId, UUID currentUserId);
+
+}

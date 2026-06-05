@@ -1,0 +1,10 @@
+com\yashwanth\pms\issue\controller\IssueControllerTest.class
+com\yashwanth\pms\notification\controller\NotificationControllerTest.class
+com\yashwanth\pms\task\controller\TaskControllerTest.class
+com\yashwanth\pms\PmsApplicationTests.class
+com\yashwanth\pms\SanityTest.class
+com\yashwanth\pms\task\service\TaskServiceTest.class
+com\yashwanth\pms\notification\service\NotificationServiceTest.class
+com\yashwanth\pms\notification\listener\NotificationListenerTest.class
+com\yashwanth\pms\comment\controller\CommentControllerTest.class
+com\yashwanth\pms\issue\service\IssueServiceTest.class
