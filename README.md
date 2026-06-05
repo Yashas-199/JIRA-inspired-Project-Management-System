@@ -351,3 +351,14 @@ Proper use of Spring Boot
 Clean architecture
 
 Professional testing practices
+
+There are 4 roles as follows-->> Admin, Project manager, project leader, team
+ 
+<img width="1312" height="607" alt="image" src="https://github.com/user-attachments/assets/05fa8c40-e978-4699-b05d-cfdba7320a95" />
+<img width="1322" height="492" alt="image" src="https://github.com/user-attachments/assets/83147399-aa4b-442c-bb90-b622613f4a17" />
+<img width="1316" height="402" alt="image" src="https://github.com/user-attachments/assets/6cc48719-40dd-4ff6-a5c5-53a6841113c4" />
+<img width="1320" height="527" alt="image" src="https://github.com/user-attachments/assets/2fd05692-341d-4567-9645-e5f1d5d566d7" />
+<img width="1313" height="467" alt="image" src="https://github.com/user-attachments/assets/ba25ea20-40b8-4765-8a32-429f7f86edcc" />
+<img width="1321" height="450" alt="image" src="https://github.com/user-attachments/assets/edddc5c7-bfce-4821-a6cf-a6abbadc6f70" />
+
+
